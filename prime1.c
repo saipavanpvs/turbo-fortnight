@@ -15,6 +15,6 @@
          break;
        }
      if(prime)
-       printf("%d", n);
+       printf("\t %d", n);
    }
  }
